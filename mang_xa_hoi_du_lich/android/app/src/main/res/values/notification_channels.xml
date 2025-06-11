@@ -1,0 +1,4 @@
+<resources>
+    <string name="high_importance_channel_name">High Importance Notifications</string>
+    <string name="high_importance_channel_description">This channel is used for important notifications.</string>
+</resources>
