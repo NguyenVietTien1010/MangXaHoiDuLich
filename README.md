@@ -40,11 +40,18 @@
 
 ## 📷 Giao Diện Minh Họa
 
-| Trang chủ | Bài đăng | Trò chuyện | Chat Bot |Profile|
-|-----------|----------|--------|--------|--------|
-| ![home](assets/home.png) | ![post](assets/post.png) | ![chat](assets/chat.png) | ![chat](assets/chat.jpg) |![Profile](assets/profile.jpg) |
+<p align="center">
+  <img src="assets/home.png" width="18%">
+  <img src="assets/post.png" width="18%">
+  <img src="assets/chat.png" width="18%">
+  <img src="assets/chat.jpg" width="18%">
+  <img src="assets/profile.jpg" width="18%">
+</p>
 
----
+<p align="center">
+  <strong>Trang chủ | Bài đăng | Trò chuyện | Chat Bot | Profile</strong>
+</p>
+
 
 ## 👩‍💻 Nhóm Thực Hiện
 
