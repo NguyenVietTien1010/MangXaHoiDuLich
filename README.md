@@ -40,9 +40,9 @@
 
 ## 📷 Giao Diện Minh Họa
 
-| Trang chủ | Bài đăng | Trò chuyện | Chat Bot |
-|-----------|----------|--------|--------|
-| ![home](assets/home.png) | ![post](assets/post.png) | ![chat](assets/chat.png) | ![chat](assets/chat.jpg) |
+| Trang chủ | Bài đăng | Trò chuyện | Chat Bot |Profile|
+|-----------|----------|--------|--------|--------|
+| ![home](assets/home.png) | ![post](assets/post.png) | ![chat](assets/chat.png) | ![chat](assets/chat.jpg) |![Profile](assets/profile.jpg) |
 
 ---
 
