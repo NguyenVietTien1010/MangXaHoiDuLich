@@ -69,7 +69,7 @@
 ## 🚀 Khởi Chạy Dự Án
  - File đẩy lên github đã xóa và thay thế toàn bộ API, để chạy được dự án, cần cấu hình lại Firebase, API Google Map, API Firebase Cloud Message, API Gemini, API OpenAI
 ```bash
-git clone https://github.com/TrDyy/Nhom7_Mobile_XayDungDeTaiQuanLyDanhGiaDuLich.git
+git clone https://github.com/NguyenVietTien1010/MangXaHoiDuLich.git
 cd Nhom7_Mobile_XayDungDeTaiQuanLyDanhGiaDuLich
 flutter pub get
 flutter run
