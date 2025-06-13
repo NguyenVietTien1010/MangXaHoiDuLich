@@ -48,11 +48,11 @@
 
 ## 👩‍💻 Nhóm Thực Hiện
 
-- **Nguyễn Trường Duy** – Trưởng nhóm, xây dựng hệ thống chat realtime, chatbot, thông báo sự kiện, thiết kế figma, tinh chỉnh giao diện. 
-- **Nguyễn Viết Tiến**	- Phân tích nghiệp vụ, vẽ sơ đồ phân rã chức năng, Xây dựng chức năng đăng bài, thiết kế figma, vẽ kiến trúc hệ thống.
-- **Nguyễn Minh Khang** -	Xây dựng giao diện thông tin người dùng, lưu bài viết, kỷ niệm, thiết kế figma.
-- **Nguyễn Hải Đăng** - Phân tích nghiệp vụ, vẽ sơ đồ usecase hệ thống, code chức năng đăng bài, vẽ kiến trúc hệ thống, thiết kế figma.
-- **Bùi Kim Hải** - 	Xây dựng giao diện thông tin người dùng, lọc thể loại du lịch, thiết kế figma.
+- **Nguyễn Trường Duy** – Xây dựng hệ thống chat realtime, chatbot, thông báo sự kiện, tinh chỉnh giao diện. 
+- **Nguyễn Viết Tiến**	- Trưởng nhóm, phân tích nghiệp vụ, vẽ sơ đồ phân rã chức năng, Xây dựng chức năng đăng bài, vẽ kiến trúc hệ thống.
+- **Nguyễn Minh Khang** -	Xây dựng giao diện thông tin người dùng, lưu bài viết, kỷ niệm.
+- **Nguyễn Hải Đăng** - Phân tích nghiệp vụ, vẽ sơ đồ usecase hệ thống, code chức năng đăng bài, vẽ kiến trúc hệ thống.
+- **Bùi Kim Hải** - 	Xây dựng giao diện thông tin người dùng, lọc thể loại du lịch.
 
 ---
 
