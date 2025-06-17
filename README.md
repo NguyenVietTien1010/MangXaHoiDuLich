@@ -13,7 +13,9 @@
 - 👥 Kết nối và theo dõi những người bạn có cùng đam mê xê dịch
 
 ---
-
+## Figma
+- url: https://www.figma.com/design/ikIjm5UJbCREqBi5vIZe7k/App-du-l%E1%BB%8Bch?node-id=0-1&t=IAuFhAlH0bemFpq5-1
+---
 ## 💡 Tính Năng Nổi Bật
 
 - ✅ Đăng ký / đăng nhập người dùng
